@@ -1,0 +1,11 @@
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.instructions_frm.resources
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.stage_1_frm.resources
+C:\Users\Raega\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.menu_frm.resources

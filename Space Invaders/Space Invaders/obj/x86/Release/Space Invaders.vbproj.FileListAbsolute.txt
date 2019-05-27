@@ -1,0 +1,14 @@
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe.config
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Release\Space Invaders.exe
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Release\Space Invaders.pdb
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Release\Space Invaders.xml
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\WindowsApplication1.menu_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\WindowsApplication1.instructions_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\WindowsApplication1.stage_1_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\WindowsApplication1.game_over_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\WindowsApplication1.complete_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\WindowsApplication1.Resources.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\Space Invaders.vbproj.GenerateResource.Cache
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\Space Invaders.exe
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\Space Invaders.xml
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Release\Space Invaders.pdb

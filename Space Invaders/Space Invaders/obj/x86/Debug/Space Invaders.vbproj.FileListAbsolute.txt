@@ -1,0 +1,72 @@
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.menu_frm.resources
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.instructions_frm.resources
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.stage_1_frm.resources
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.vbproj.GenerateResource.Cache
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.xml
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.game_over_frm.resources
+C:\Users\Raega\Desktop\School\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.complete_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.xml
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.menu_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.instructions_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.stage_1_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.game_over_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.complete_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.Resources.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.vbproj.GenerateResource.Cache
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.xml
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+E:\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+E:\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+E:\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.menu_frm.resources
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.instructions_frm.resources
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.stage_1_frm.resources
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.game_over_frm.resources
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.complete_frm.resources
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.vbproj.GenerateResource.Cache
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.xml
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.menu_frm.resources
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.instructions_frm.resources
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.stage_1_frm.resources
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.game_over_frm.resources
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.complete_frm.resources
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.vbproj.GenerateResource.Cache
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.xml
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Debug\Space Invaders.pdb
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\bin\Debug\Space Invaders.xml
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.menu_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.instructions_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.stage_1_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.game_over_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.complete_frm.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\WindowsApplication1.Resources.resources
+R:\IT\VB\AS Computing\Dawid Wasowski 12T\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.vbproj.GenerateResource.Cache
+E:\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+E:\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+E:\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.xml
+E:\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\Raega\Dropbox\Computer Science\My Coursework\Program\Space Invaders\Program\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.vbprojResolveAssemblyReference.cache
